@@ -1,8 +1,0 @@
-2026/05/13 21:22:48 - INFO - Start connection with avito_db...
-2026/05/13 21:22:48 - INFO - Database connection created successfully.
-2026/05/13 21:22:48 - ERROR - Error extracting OBT data: (psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
-
-(Background on this error at: https://sqlalche.me/e/20/e3q8)
-2026/05/13 21:27:38 - INFO - Start connection with avito_db...
-2026/05/13 21:27:38 - INFO - Database connection created successfully.
-2026/05/13 21:27:39 - INFO - OBT extracted successfully. Shape: (10356, 12)

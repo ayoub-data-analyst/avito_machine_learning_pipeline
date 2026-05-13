@@ -1,0 +1,5 @@
+2026-05-13 22:16:08,539 - INFO - Data loaded successfully. Shape: (10356, 12)
+2026-05-13 22:16:08,542 - INFO - Columns dropped successfully. Remaining columns: ['price', 'surface', 'rooms', 'baths', 'city', 'neighborhood', 'price_meter', 'price_category']
+2026-05-13 22:16:08,584 - INFO - Categorical variables encoded successfully.
+2026-05-13 22:16:08,613 - INFO - Data split completed. Train shape: (8284, 428), Test shape: (2072, 428)
+2026-05-13 22:16:46,940 - INFO - Preprocessing completed successfully.

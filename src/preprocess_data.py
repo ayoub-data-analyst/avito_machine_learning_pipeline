@@ -58,8 +58,8 @@ def preprocess_data():
         X_test_scaled = scaler.transform(X_test)
 
         # Save processed datasets
-        pd.DataFrame(X_train_scaled).to_csv("data/train.csv", index=False)
-        pd.DataFrame(X_test_scaled).to_csv("data/test.csv", index=False)
+        pd.DataFrame(X_train_scaled).to_csv("data/x_train.csv", index=False)
+        pd.DataFrame(X_test_scaled).to_csv("data/x_test.csv", index=False)
 
         pd.DataFrame(y_train).to_csv("data/y_train.csv", index=False)
         pd.DataFrame(y_test).to_csv("data/y_test.csv", index=False)

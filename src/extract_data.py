@@ -56,6 +56,5 @@ def extract_obt():
         logging.error(f"Error extracting OBT data: {e}")
         raise
 
-
 if __name__ == "__main__":
     extract_obt()

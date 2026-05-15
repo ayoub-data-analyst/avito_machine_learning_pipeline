@@ -1,0 +1,431 @@
+feature,importance
+price_meter,0.9798251805343692
+surface,0.0052289409514975635
+baths,0.0046654600542746
+surface_baths_interaction,0.0033853541267606256
+rooms,0.002806127595062309
+surface_rooms_interaction,0.002016446157080233
+surface_per_room,0.0005650484194936122
+city_Mohammedia,0.0003371480148187053
+bath_room_ratio,0.0002958395281841368
+city_Casablanca,0.0001306109289896909
+neighborhood_Diour Jamaa,0.00012512264022252072
+neighborhood_Aïn Borja,9.500671982710801e-05
+city_Salé,9.255655856140237e-05
+neighborhood_Sidi Bernoussi,5.6145750762738895e-05
+neighborhood_Maarif,5.429233598822568e-05
+neighborhood_Toute la ville,4.781747621454479e-05
+neighborhood_Malabata,4.3462694595689354e-05
+city_Tanger,2.9816881484664003e-05
+city_Meknès,2.8516988072475075e-05
+neighborhood_Socoma,2.533234997865368e-05
+city_El Jadida,2.385022689476883e-05
+neighborhood_Hamria,2.3003412367711724e-05
+neighborhood_Autre secteur,1.3614246096594213e-05
+city_Marrakech,1.2280909374763011e-05
+city_Martil,1.0325046917339368e-05
+neighborhood_Californie,9.673874407259561e-06
+city_Rabat,7.601466739907265e-06
+city_Dar Bouazza,7.199992619363762e-06
+neighborhood_Salmia,6.81934877399168e-06
+neighborhood_Hay Mohammadi,4.4980798312648185e-06
+neighborhood_Casabarata,3.7982997688533795e-06
+neighborhood_Belvédère,3.7538601669337063e-06
+neighborhood_Tabriquet,2.8825638227383895e-06
+city_Khouribga,2.663633360146045e-06
+neighborhood_Centre,2.5175948765744716e-06
+neighborhood_Hay Salam,1.9294633420679343e-06
+neighborhood_Errahma,1.445297203653986e-06
+neighborhood_Oulfa,9.7438456862345e-07
+neighborhood_Sidi Moumen,9.173774355753858e-07
+neighborhood_Tilila,7.334191985493403e-07
+neighborhood_Bourgogne,5.785872167340788e-07
+neighborhood_El Houda,5.729487308040582e-07
+city_Tétouan,4.658682061875323e-07
+neighborhood_Hay Chmaou,3.4811445041003563e-07
+neighborhood_Aïn Chock,3.0111838537114247e-07
+neighborhood_Route de Tahanaoute,2.929498954462356e-07
+neighborhood_Souissi,2.0973812558695902e-07
+city_Chellalate,1.821410847994708e-07
+neighborhood_alliance,1.8197517805160474e-07
+city_Kénitra,1.7679979126547244e-07
+city_Ain Aouda,1.362282934844798e-07
+neighborhood_Hay Riad,1.1884770701751519e-07
+neighborhood_Iberie,1.185317915638434e-07
+city_Bouznika,1.164136389654117e-07
+neighborhood_Riyad,1.158578425302783e-07
+neighborhood_Ville verte,1.148329917038764e-07
+neighborhood_Al Azhar,1.0526648919188291e-07
+city_Bouskoura,9.47817583484945e-08
+neighborhood_Wilaya,8.596900797150901e-08
+neighborhood_Aouama Gharbia,8.065436651157744e-08
+city_Had Soualem,5.7264235941331155e-08
+neighborhood_Massira 2,5.6609286837319775e-08
+neighborhood_Narjis,5.391958562498517e-08
+city_Fès,5.2971087726527895e-08
+neighborhood_Boukhalef,4.40250328158658e-08
+neighborhood_Racine,4.3535526661941466e-08
+neighborhood_Gauthier,4.148801908937303e-08
+neighborhood_Guéliz,3.807356252131354e-08
+neighborhood_Ville Nouvelle,3.280561301419567e-08
+neighborhood_Hay Hassani,3.135645249070142e-08
+neighborhood_Ain Sebaa,2.9145100255370265e-08
+neighborhood_Harti,2.255614415483652e-08
+city_Temara,2.2112092395335657e-08
+neighborhood_Agdal,1.9162512502872526e-08
+neighborhood_Marina,1.6779213410493087e-08
+neighborhood_Champ de course,1.534483377745854e-08
+neighborhood_Victoria,1.5163614423729997e-08
+neighborhood_Casablanca Finance City,1.5058218528489404e-08
+neighborhood_Maamora,1.4524533175049072e-08
+neighborhood_Jnan El ward,1.4295113145230846e-08
+neighborhood_Centre ville,1.2543584173406345e-08
+city_Mdiq,1.1806032043013443e-08
+neighborhood_Hassan,1.1207042085626909e-08
+neighborhood_Tamraght,1.0469933868437181e-08
+city_Tamesna,1.0426239856506187e-08
+city_Oualidia,8.546235431354407e-09
+city_Cabo Negro,7.986617761684416e-09
+city_Taghazout,7.827744523502671e-09
+neighborhood_Val Fleuri,6.930499572002912e-09
+neighborhood_Bab Al Bahr,6.5597721036034666e-09
+neighborhood_Centre Ville,6.264351499282988e-09
+city_Deroua,6.118773002817108e-09
+neighborhood_Mozart,5.6185319452245435e-09
+neighborhood_Sidi Maarouf,5.4324785593459926e-09
+neighborhood_Hivernage,5.314401060861762e-09
+neighborhood_Anfa,5.06502809755897e-09
+neighborhood_Palmier,4.956187971219067e-09
+neighborhood_Av Mohammed VI,4.6801152975385735e-09
+neighborhood_Yacoub El Mansour,4.238918525041391e-09
+city_Sidi Bouknadel,4.13228775775827e-09
+neighborhood_Tanger City Center,3.920662809137072e-09
+neighborhood_Quartier des Hôpitaux,3.446726889650397e-09
+neighborhood_Route de Casablanca,3.3666861842474906e-09
+neighborhood_Sania,3.329050929477401e-09
+neighborhood_Route de Ceuta,3.2842013515297695e-09
+neighborhood_Harhoura,3.051058304316412e-09
+neighborhood_Les Princesses,2.931989458359518e-09
+neighborhood_Riviera,2.8305251071964455e-09
+neighborhood_Triangle d'Or,2.7583973924258925e-09
+neighborhood_Mers Sultan,2.5706996794132415e-09
+neighborhood_Mimosas,2.5660701649774103e-09
+neighborhood_nouinouich,2.475317498097641e-09
+neighborhood_Safir,2.4655028572615013e-09
+neighborhood_Av Abdelkrim El Khattabi,2.4129222625812896e-09
+neighborhood_Maârif Extension,2.3798096566651407e-09
+city_Saidia,2.2296545707833954e-09
+neighborhood_Derb Ghallef,2.122170814824204e-09
+neighborhood_Ben Serguaou,2.0703962573438702e-09
+city_Asilah,1.9561994383710034e-09
+neighborhood_Beauséjour,1.9417600167688148e-09
+neighborhood_Sala El Jadida,1.9273590845181733e-09
+neighborhood_Oasis,1.744447554480771e-09
+city_Oujda,1.666528432745046e-09
+neighborhood_Ferme Bretone,1.6062917032501642e-09
+neighborhood_Achakar,1.5800018119461299e-09
+neighborhood_Wifak,1.5029631740280234e-09
+city_Benslimane,1.447189814464075e-09
+city_Nador,1.4219311029258898e-09
+neighborhood_Touilaa,1.0636270091580163e-09
+neighborhood_Route d'Immouzere,1.034240223625584e-09
+neighborhood_Moulay Youssef,1.0263967065063178e-09
+neighborhood_Derb Omar,1.0187267231678554e-09
+city_Sidi Rahal,9.677131002865855e-10
+neighborhood_Semlalia,9.343209838395596e-10
+neighborhood_Almaz,9.190941499510937e-10
+neighborhood_Hay Izdihar,9.100809727533641e-10
+neighborhood_La Gironde,9.085407503360924e-10
+neighborhood_Tanja Balia,8.912654785567085e-10
+neighborhood_Palmeraie,8.687323214954609e-10
+neighborhood_Marjane,8.103090586045137e-10
+neighborhood_Bab Ghmat,8.081465367158722e-10
+neighborhood_Hay Massira,8.020556365380205e-10
+neighborhood_De La Plage,7.97778187328488e-10
+neighborhood_Route d'Amezmiz,7.70692563167856e-10
+neighborhood_Al Qods,7.611105827104261e-10
+neighborhood_Haut-Founty,7.558610149125072e-10
+city_Fnideq,7.398537303126718e-10
+neighborhood_Hôrloge,6.963660636765752e-10
+city_Zenata,6.947836517655355e-10
+city_Skhirat,6.941187852746467e-10
+neighborhood_Guich Oudaya,6.58710712999515e-10
+neighborhood_Roches Noires,6.281558211600407e-10
+neighborhood_Nassim,6.266363075520774e-10
+neighborhood_Plage Oued Cherrat,5.996078940418505e-10
+city_Larache,5.917523814951995e-10
+neighborhood_Route Ain Chkaf,5.81567932921072e-10
+city_El Mansouria,5.746201907474637e-10
+neighborhood_Hay Inbiat,5.484693325755345e-10
+neighborhood_C.I.L,5.437462528832841e-10
+neighborhood_Route de Safi,5.224456633057755e-10
+city_Béni Mellal,5.095942888622635e-10
+neighborhood_Sidi Belyout,4.767129705545723e-10
+neighborhood_Route d'Azemmour,4.5771479726334475e-10
+neighborhood_M'Hamid,4.5710975716934064e-10
+neighborhood_Val d'or,4.554720066787371e-10
+neighborhood_Annakhil,4.0518134442463094e-10
+neighborhood_Majorelle,3.867399634612088e-10
+neighborhood_Al Mandar Al Jamil,3.7867076685022006e-10
+neighborhood_Abdelmoumen,3.772957908853174e-10
+neighborhood_Said Hajji,3.607553377497685e-10
+neighborhood_Haut Anza,3.5106273277619276e-10
+neighborhood_Ain Mezouar,3.500974918610612e-10
+neighborhood_Marjane 2,3.4878011385204506e-10
+neighborhood_Bachkou,3.3672206543757223e-10
+city_Berrechid,3.3349490243531574e-10
+neighborhood_Victor Hugo,3.3182034638148994e-10
+neighborhood_Kébibat,3.2613965419824515e-10
+neighborhood_Mabrouka,3.052670609845993e-10
+city_El Menzeh,2.9505379376495165e-10
+neighborhood_Seyad,2.891931879116321e-10
+neighborhood_Hay Qods,2.6275268505275646e-10
+neighborhood_Quartier du Parc,2.5423744918438855e-10
+neighborhood_Oued Eddahab,2.514767160284061e-10
+neighborhood_Ouled Oujih,2.4470263743752574e-10
+neighborhood_Bir Rami,2.33832076602565e-10
+neighborhood_La Ville Haute,2.2195325895042727e-10
+neighborhood_Franceville,2.1766683996902247e-10
+neighborhood_Bouskoura centre,2.1630992730685476e-10
+city_Nouaceur,2.1299824561949743e-10
+city_Cap de l'eau,2.1224235988634052e-10
+neighborhood_Mesnana,1.8352399863263016e-10
+neighborhood_Ahlane,1.8055593658065595e-10
+neighborhood_Moujahidine,1.7936736471275716e-10
+neighborhood_Riad Oulad Mtaa,1.7728458135152489e-10
+neighborhood_Administratif,1.7586779340671276e-10
+neighborhood_Val Fleury,1.7000879965538784e-10
+neighborhood_Ben Souda,1.694610653076984e-10
+city_Mehdia,1.6228099344808542e-10
+city_Settat,1.5997249677850011e-10
+neighborhood_La Colline,1.537320363294675e-10
+neighborhood_Aïn Diab,1.4974157087287697e-10
+neighborhood_Riyad Extension,1.4696615104009375e-10
+neighborhood_Wafa,1.465359701146302e-10
+neighborhood_Bab Doukkala,1.4433114429471292e-10
+neighborhood_Wislane,1.4189276745191846e-10
+neighborhood_El Alia,1.4047209846759715e-10
+neighborhood_Hay Al Farah,1.3973128883142944e-10
+neighborhood_Marchan,1.363115601164073e-10
+neighborhood_Hay Nahda,1.2944661116067453e-10
+neighborhood_Hay Lazaret,1.2261461415095676e-10
+neighborhood_Hay Charaf,1.2180961897985987e-10
+neighborhood_Allal El Fassi,1.203293631650172e-10
+neighborhood_Av Mokawama,1.1992529627618771e-10
+neighborhood_Secteur Touristique,1.1876099570664388e-10
+neighborhood_Amerchich,1.1769130555142898e-10
+neighborhood_El Haddada,1.1593748552898298e-10
+neighborhood_Du Golf,1.1026714888191504e-10
+neighborhood_Quartier de l'Océan,1.0379465940088965e-10
+city_Safi,1.0084036546414343e-10
+neighborhood_Daoudiate,1.002454162236363e-10
+neighborhood_Hay Al Amal,9.973527224267804e-11
+city_Azemmour,9.850603296658907e-11
+city_Tit Mellil,9.792539611410726e-11
+neighborhood_Aakkari,9.680414587845609e-11
+neighborhood_Al Moustakbal,9.165956261878731e-11
+neighborhood_Corniche,9.146658512839652e-11
+neighborhood_Ziana,9.027294187485213e-11
+neighborhood_Issil,9.024466051889132e-11
+neighborhood_Massira 1,8.949805112180348e-11
+city_Tamaris,8.886472296299716e-11
+neighborhood_Route de Ouarzazate,8.366127548878302e-11
+neighborhood_Mandarona,8.32805777064997e-11
+city_Taza,7.870003911942057e-11
+neighborhood_Zitoune,7.802989543384499e-11
+neighborhood_Hay Dakhla,7.716105950397985e-11
+neighborhood_Talborjt,7.603684202364899e-11
+neighborhood_Al Fida,7.556614976634882e-11
+neighborhood_Al Maghrib Al Arabi,7.374117936527945e-11
+city_Amizmiz,7.320118971914139e-11
+neighborhood_Route d'El Jadida,7.226583622427524e-11
+neighborhood_Hay Al Horria,6.980608598603367e-11
+neighborhood_Bournazil,6.736222741089048e-11
+neighborhood_Hay Essalam,6.640606956165386e-11
+city_Sidi Bouzid,6.628999303865716e-11
+neighborhood_Route Jerada,6.562979266838218e-11
+neighborhood_Branes 1,6.405935668898674e-11
+neighborhood_Al Boustane,6.158081533661551e-11
+neighborhood_Hay Al Kamal,5.926153196565544e-11
+city_Oued Laou,5.791467878895025e-11
+city_Sefrou,5.7105877752750315e-11
+neighborhood_Nahda-1,5.2917664199890326e-11
+neighborhood_Hay Saada,5.207057639372838e-11
+neighborhood_Mhannech,5.205773283562339e-11
+neighborhood_Les Portes de Marrakech,5.197050378027576e-11
+neighborhood_Hay El Qods,5.178412645368841e-11
+neighborhood_Al Kawtar,5.176913765333158e-11
+city_Essaouira,5.0040021639882405e-11
+neighborhood_Lissasfa,4.894397983370475e-11
+city_Inzegan,4.854575799744646e-11
+neighborhood_Hoda,4.7859260327012894e-11
+neighborhood_Batha,4.758567097298142e-11
+neighborhood_Hamza,4.531500549431187e-11
+neighborhood_Cité Adrar,4.4387903878735173e-11
+neighborhood_Hay Atlas,4.384361158007861e-11
+neighborhood_Assif,4.344570372180087e-11
+city_El Hajeb,4.2769442029498526e-11
+neighborhood_Azzouzia,4.208181597511897e-11
+neighborhood_Najmat Al Janoub,4.1758531545021426e-11
+neighborhood_Anza,4.1575832042033226e-11
+neighborhood_Torrota,4.004577853240285e-11
+neighborhood_Mkinssia,3.992084858712374e-11
+neighborhood_Najd,3.8711510894798104e-11
+neighborhood_Dar Dbibagh,3.853749007979487e-11
+city_Guercif,3.7568579028152e-11
+city_Berkane,3.625000680472703e-11
+neighborhood_Sidi Othmane,3.4307501607712174e-11
+neighborhood_Zone industrielle,3.278509216047067e-11
+city_Ain Harrouda,3.272885149918757e-11
+neighborhood_Castilla,3.2122316743475267e-11
+neighborhood_Quartier Aérodrome,3.201531449628067e-11
+neighborhood_Kouilma,3.182277351131704e-11
+neighborhood_Zemmouri,3.083279511785705e-11
+neighborhood_Biranzarane,3.017389685883763e-11
+neighborhood_Smaâla,3.016251017588522e-11
+neighborhood_Riad 1,2.988332588266091e-11
+neighborhood_Hay Moulay Rachid,2.8768044398994578e-11
+neighborhood_Ihchach,2.812823247693792e-11
+neighborhood_Riad Toulal,2.810628611772914e-11
+city_Ben Guerir,2.7348875378515416e-11
+neighborhood_Sidi Abdellah,2.678537759700358e-11
+city_Sidi Allal El Bahraoui,2.6469150618834e-11
+neighborhood_Hay El Andalous,2.5941782944852784e-11
+neighborhood_Bouaakkaz,2.574292804321698e-11
+neighborhood_Hay Targa,2.5393736355034663e-11
+neighborhood_Mont fleuri,2.531078556259521e-11
+city_Ait Melloul,2.5092038219015714e-11
+neighborhood_Es Saada,2.438876929801683e-11
+neighborhood_Al Irfane 2,2.3927189815846443e-11
+neighborhood_Medina,2.388407829176173e-11
+neighborhood_Abattoirs,2.3363241984328483e-11
+city_Khemisset,2.2530555244817016e-11
+neighborhood_Rachidia,2.118328655548318e-11
+city_Ksar el-Kebir,2.071808378415864e-11
+neighborhood_Bir Rami Industriel,2.030854667127783e-11
+city_Al Hoceima,2.020256695171445e-11
+neighborhood_Bab Al Bahar,1.9934328695022192e-11
+neighborhood_Hay Al Falah,1.9662240395131038e-11
+neighborhood_Tghat,1.9448879552470852e-11
+neighborhood_El Bassatine,1.8641535434203774e-11
+neighborhood_Fonciere,1.7435213007518215e-11
+neighborhood_Branes 2,1.651690911154773e-11
+neighborhood_Hay Karima,1.6298456271474417e-11
+neighborhood_Ain Amiyer,1.6281490740401878e-11
+neighborhood_Al Filline,1.549438768662726e-11
+neighborhood_Oued Fès,1.5466205371841347e-11
+city_Mirleft,1.5347522443227417e-11
+city_Ain Attig,1.489271826774609e-11
+city_Tiznit,1.4760181767569732e-11
+neighborhood_Saada,1.4566936894319124e-11
+neighborhood_Hay el Fath,1.4173981036261947e-11
+neighborhood_Route de Sefrou,1.3868954173549262e-11
+neighborhood_Msalla,1.3805636566257044e-11
+city_Gueznaia,1.2697183398254191e-11
+neighborhood_Ben Dibane,1.2416125109962634e-11
+neighborhood_la Nouvelle Ville Ibn Battouta,1.2398949749367473e-11
+neighborhood_Mediouna,1.2387039603903823e-11
+neighborhood_Hay El Farah,1.1967748736536333e-11
+neighborhood_Mghogha,1.150234524093579e-11
+neighborhood_M'nar,1.1320546480592982e-11
+neighborhood_Targa,1.1100629005136196e-11
+city_Aquouass Briech,1.0357888652225256e-11
+neighborhood_Hay Alqods,1.0266898564066675e-11
+neighborhood_Azli,1.0215589824459757e-11
+neighborhood_El Majd,1.0213391432503213e-11
+neighborhood_Aida,9.951420367440687e-12
+neighborhood_Hay Rahma,9.760992450780837e-12
+neighborhood_Skikina,9.751682044997664e-12
+city_Mediouna,9.504366307581063e-12
+neighborhood_Ben M'sick,9.278396168581023e-12
+neighborhood_Hay salam,8.713744792883486e-12
+neighborhood_Iris,8.636130171485631e-12
+neighborhood_Sidi Youssef Ben Ali,8.333715345731248e-12
+neighborhood_Dar Mehrez,8.324805449016292e-12
+neighborhood_Bettana,7.90995447565167e-12
+neighborhood_Tassila,7.834533905977986e-12
+neighborhood_Route d'Ourika,7.705610696114937e-12
+city_Lamkansa,7.54957583723651e-12
+neighborhood_Hay Annasr,7.454495770037418e-12
+neighborhood_Taboula,7.418508538522288e-12
+city_Al Firdaous,6.761521944751218e-12
+neighborhood_Ben Ejdia,6.6808697281542346e-12
+city_Tifelt,6.2882298408146505e-12
+city_Dakhla,6.196418417984899e-12
+city_Tamensourt,6.094136600579872e-12
+neighborhood_Hay Oued Dahab,6.009764443779434e-12
+neighborhood_Sbata,5.9860543045850835e-12
+city_Ouled Teïma,5.981043770200664e-12
+city_Ouislane,5.72074558703614e-12
+city_Imouzzer-Kendar,5.625973929654602e-12
+city_Drargua,5.564038024582939e-12
+city_Azla,5.440752637503217e-12
+neighborhood_Zouagha,5.193250894917346e-12
+city_Laâyoune,5.034615492422056e-12
+city_Béni Yakhlef,4.757244256364605e-12
+neighborhood_Jbel Kbir,4.450388786575951e-12
+neighborhood_La Siesta,4.051516514234287e-12
+city_Dcheïra El Jihadia,3.972017739990489e-12
+neighborhood_Assam,3.911518055918613e-12
+neighborhood_Sakani,3.8872337082860894e-12
+neighborhood_Hay Sadri,3.846501229717068e-12
+neighborhood_Boustane,3.4506724832604095e-12
+neighborhood_Ziatene,3.2535413928626607e-12
+neighborhood_Sidi Abbad,3.0041578496134348e-12
+neighborhood_Ain kadous,2.9167635338283434e-12
+neighborhood_manar,2.858331958217123e-12
+neighborhood_Azib Derai,2.8176213222339196e-12
+neighborhood_La Hacienda,2.8121697683592785e-12
+neighborhood_Al Madina Aljadida,2.7850426979598083e-12
+neighborhood_El Qaria,2.761000977901436e-12
+neighborhood_kasbat al mahdia,2.7137932353067202e-12
+neighborhood_Zawiyat Sidi Wassel,2.606958867819376e-12
+neighborhood_Hay Inara,2.391524842970161e-12
+neighborhood_Hay Kilz,2.000442888002899e-12
+neighborhood_Al Wifaq,1.996344337962417e-12
+city_Ouazzane,1.7757091636409778e-12
+city_Sidi Yahya Zaer,1.6826487379693852e-12
+neighborhood_Fouarate,1.6698903421685323e-12
+neighborhood_Mouilha,1.6205294792043218e-12
+neighborhood_Massira,1.6122483539125564e-12
+neighborhood_Hay Arrachad,1.5625956045911054e-12
+neighborhood_Aharrarine,1.3683997063889915e-12
+neighborhood_Bab Sebta,1.3439375832850627e-12
+neighborhood_Cité Militaire,1.2232732479488235e-12
+neighborhood_Ain Atig,1.1810722311843005e-12
+city_Selouane,1.1190080491689573e-12
+neighborhood_Saniat Rmal,1.1160777967435088e-12
+neighborhood_Andalous,1.0034270493409029e-12
+neighborhood_Zone Industrielle Agadir,8.177406849256456e-13
+neighborhood_Le bord de mer,8.071403721039559e-13
+neighborhood_Route de Tamansourt,7.860525208301649e-13
+neighborhood_Arghoud,7.591231390462955e-13
+neighborhood_Bab Fès,6.447050627932751e-13
+neighborhood_Messrour 2,4.638401837755663e-13
+city_Kasba Tadla,3.650273619791224e-13
+neighborhood_Imarat,2.623921677242797e-13
+city_Dcheira,1.9767183812945022e-13
+neighborhood_Zone Industrielle,1.749857111030724e-13
+neighborhood_Aviation,1.4391347639686978e-13
+neighborhood_Branes Kdima,1.3581130085269904e-13
+city_Sidi Kacem,1.32294976493917e-13
+neighborhood_Hay Al Matar,9.258293596078736e-14
+neighborhood_Route de Fès,2.2562253719271937e-14
+neighborhood_Firdaouss,0.0
+neighborhood_El Youssoufia,0.0
+neighborhood_Jemaa El Fna,0.0
+neighborhood_Akioud,0.0
+neighborhood_Hay el matar,0.0
+neighborhood_Hay Ennasr,0.0
+neighborhood_Hay Chrifa,0.0
+neighborhood_Ghazoua,0.0
+neighborhood_El Manar El Hank,0.0
+neighborhood_Bd Allal el fassi,0.0
+neighborhood_Ouled Arfa,0.0
+neighborhood_Quartier Industriel,0.0
+city_Taroudant,0.0
+neighborhood_Ain Errouz,0.0
+neighborhood_Massira 3,0.0
+neighborhood_Riad Salam,0.0
+neighborhood_Sidi Moussa,0.0
+city_Chefchaouen,0.0
